@@ -106,7 +106,7 @@
 		}
 
 		.container {
-			width: 51em;
+			width: 70em;
 		}
 
 	}
@@ -1906,8 +1906,9 @@
 			position: relative;
 			top: -1em;
 			color: #888888;
-			text-transform: uppercase;
-			letter-spacing: 0.075em;
+			text-transform:lowercase;
+            text-align: left;
+            letter-spacing: 0.075em;
 		}
 
 		header.major {
@@ -1975,7 +1976,7 @@
 			border-color: rgba(224, 224, 224, 0.75);
 			border-style: solid;
 			border-top-width: 1px;
-			margin-top: 6em;
+			margin-top: 10em;
 			padding: 4em 0;
 			position: relative;
 		}
@@ -2452,7 +2453,7 @@
 
 		.feature .content {
 			display: inline-block;
-			padding: 3.5em;
+			padding: .5em;
 			vertical-align: middle;
 			width: 48%;
 		}
